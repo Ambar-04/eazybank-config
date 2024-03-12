@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related QA APIs "
+  contactDetails:
+    name: "MS - QA Lead"
+    email: "MS@eazybank.com"
+  onCallSupport:
+    - (888) 444-2222
+    - (887) 444-4444
